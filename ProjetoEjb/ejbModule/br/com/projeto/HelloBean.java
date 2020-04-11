@@ -19,7 +19,7 @@ public class HelloBean implements HelloBeanLocal {
 
 	@Override
 	public String getHelloMessage() {
-		String saida = "Hello mother fucker2";
+		String saida = "Hello mother fucker23456789";
 		return saida;
 	}
 
